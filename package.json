@@ -17,7 +17,7 @@
     "Cyberpunk theme dark",
     "Cyberpunk 2077"
   ],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -32,5 +32,7 @@
         "path": "./themes/Cyberpunk Bold Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "/screenshot/cyberpunk-theme.png",
+  "license": "MIT"
 }
