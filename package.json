@@ -1,7 +1,22 @@
 {
   "name": "cyberpunk-theme",
-  "displayName": "cyberpunk-theme",
-  "description": "Cyberpunk bold colors theme",
+  "displayName": "Cyberpunk theme dark",
+  "description": "A dark theme for vs code inspired by bold cyberpunk colors",
+  "publisher": "CollinsOduor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Collo37/cyberpunk-vs-code-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "Collins Oduor",
+    "Cyberpunk",
+    "Cyberpunk theme",
+    "Cyberpunk theme dark",
+    "Cyberpunk 2077"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
