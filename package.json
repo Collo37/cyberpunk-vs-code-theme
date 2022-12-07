@@ -27,12 +27,16 @@
   "contributes": {
     "themes": [
       {
+        "label": "Cyberpunk Sci-fi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberpunk Futuristic.json"
+      },
+      {
         "label": "Cyberpunk Bold Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberpunk Bold Dark-color-theme.json"
       }
     ]
   },
-  "icon": "/screenshot/cyberpunk-theme.png",
   "license": "MIT"
 }
